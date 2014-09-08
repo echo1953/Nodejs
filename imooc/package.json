@@ -1,0 +1,23 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "description": "wangyuns imooc",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.8.0",
+    "moment": "^2.8.3",
+    "jade": "^1.6.0",
+    "underscore": "^1.7.0",
+    "express": "^4.8.8",
+    "mongoose": "^3.8.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imooc"
+  ],
+  "author": "wangyun",
+  "license": "ISC"
+}
